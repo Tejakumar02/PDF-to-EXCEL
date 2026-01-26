@@ -1,0 +1,27 @@
+New-Item .gitignore
+```
+
+**2. Add this content to `.gitignore`:**
+```
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.dbn
