@@ -35,6 +35,7 @@ Shipping	Courier Name
 System Data	Stm Code, Stm Name
 Auto-generated	Form No, Start Date
 Additional Fields	Amount Word, Remarks
+
 🛠️ Installation
 Prerequisites
 Python 3.8 or higher
@@ -55,8 +56,8 @@ venv\Scripts\activate
 source venv/bin/activate
 
 # Install required packages
-pip install streamlit PyMuPDF openpyxl
-🚀 Usage
+pip install -r requirements.txt
+
 Running the Application
 bash
 # Navigate to project directory
