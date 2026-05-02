@@ -43,8 +43,7 @@ Python 3.8 or higher
 Installation Steps
 bash
 # Clone or download the project
-git clone https://github.com/Tejakumar02/OCR.git
-cd PDF-to-EXCEL 
+git clone QC-Workflow-AutomationSystem 
 
 # Create virtual environment (recommended)
 python -m venv venv
