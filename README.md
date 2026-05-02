@@ -11,7 +11,13 @@ Color-Coded Text Detection: Specifically captures red-colored text spans for spe
 
 Multi-PDF Processing: Batch process multiple PDF files in a single operation
 
+<img width="810" height="877" alt="image" src="https://github.com/user-attachments/assets/f1c9a214-883b-4d92-8351-789f207f6290" />
+
+
 Structured Output: Organizes extracted data in a clean, tabular Excel format
+
+<img width="1869" height="116" alt="image" src="https://github.com/user-attachments/assets/bb12e6f8-d2cf-418b-a90a-14a051ddc2c9" />
+
 
 📊 Excel Output Format
 Bold Headers: Column headers are formatted in bold for readability
@@ -21,6 +27,8 @@ Color-Coding: Red-colored text from PDFs appears in red font in Excel
 File Separation: Empty rows between different PDF files for clear distinction
 
 35+ Data Fields: Comprehensive extraction including customer info, billing, medical data, and more
+
+
 
 🎯 Supported Data Fields
 The application extracts the following 35 data points (automatically detected and organized):
